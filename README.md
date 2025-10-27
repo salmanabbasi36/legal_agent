@@ -50,9 +50,9 @@ print(pipe(text))
 The **LEDGAR** dataset contains contract clauses annotated with one of **100+ provision types**.  
 It is part of the [LexGLUE benchmark](https://huggingface.co/datasets/coastalcph/lex_glue), which evaluates legal text understanding models.
 
-Each sample includes:
-```json
+✍️ Citation
 
+If you use this model, please cite:
 @misc{abbasi2025ledgar,
   author = {Abbasi, Salman},
   title = {DistilBERT Fine-Tuned on LexGLUE LEDGAR for Legal Clause Classification},
